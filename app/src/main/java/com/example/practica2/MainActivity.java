@@ -11,8 +11,10 @@ import androidx.core.view.WindowInsetsCompat;
 /**
  * @author Pablo César Navarro Santana -
  * <a href="mailto:pablocro@ciencias.unam.mx">pablocro@ciencias.unam.mx</a>
+ * @author Fernando Romero Cruz -
+ * <a href="mailto:romerocruzfernando@ciencias.unam.mx">romerocruzfernando@ciencias.unam.mx</a>
+ * @version v1.0
  */
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
